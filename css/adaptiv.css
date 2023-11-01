@@ -1,0 +1,122 @@
+@media screen and (max-width:1024px) {
+   .tabs{
+      max-width: 800px;
+      margin: 0 auto;
+      margin-top: 100px;
+  }
+}
+
+@media screen and (max-width:768px) {
+   .text {
+      margin: 0 auto;
+      margin-bottom: 50px;
+      
+   }
+   .card1{
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+   }
+   .card{
+      margin-bottom: 30px;
+   }
+   .poisk{
+         display: flex;
+   flex-wrap: wrap;
+   width: 300px;
+   align-items: center;
+   margin: 0 auto;
+   }
+   .text6{
+   margin: 0 auto;
+   margin-top: 100px;
+   }
+   .text4{
+      margin-top: 50px;
+   }
+   .tabs{
+      max-width: 650px;
+      margin: 0 auto;
+      margin-top: 100px;
+  }
+}
+@media screen and (max-width:425px) {
+   .tabs{
+      max-width: 300px;
+      margin: 0 auto;
+      margin-top: 100px;
+  }
+  .card{
+   width: 78%;
+ margin: 0 auto;
+ margin-bottom: 30px;
+}
+}
+@media screen and (max-width:375px) {
+   .text {
+      margin: 0 auto;
+      margin-bottom: 50px;
+      
+   }
+   .card1{
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+   }
+   .card{
+      width: 78%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+   }
+   .poisk{
+         display: flex;
+   flex-wrap: wrap;
+   width: 300px;
+   align-items: center;
+
+   }
+   .text6{
+   margin: 0 auto;
+   width: auto;
+   margin-top: 100px;
+   }
+   .text1{
+      font-size: 40px;
+   }
+      .text2{
+      font-size: 40px;
+   }
+   .text33{
+         width: 303px;
+   }
+         .text4{
+      font-size: 40px;
+      width: 288px;
+   margin: 0 auto;
+   margin-bottom: 30px;
+   }
+         .text5{
+      font-size: 40px;
+   }
+   .text7{
+      text-align: center;
+   }
+   .nomber1{
+      display: flex;
+   flex-direction: column;
+   }
+   .r{
+         width: 100%;
+   }
+   .col-auto{
+      margin: 0 auto;
+   }
+   .tabs{
+      max-width: 200px;
+      margin: 0 auto;
+      margin-top: 100px;
+  }
+  .psik{
+   margin: 0 auto;
+  }
+}
